@@ -1,0 +1,27 @@
+{
+  "name": "learn-swift",
+  "version": "0.0.0",
+  "description": "Learn Apple's Swift programming language interactively through these playgrounds.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nettlep/learn-swift.git"
+  },
+  "keywords": [
+    "swift"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/nettlep/learn-swift/issues"
+  },
+  "homepage": "https://github.com/nettlep/learn-swift",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "swift-playground-builder": "^0.5.0"
+  }
+}
